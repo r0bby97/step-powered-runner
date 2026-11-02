@@ -2,6 +2,15 @@
 
 An Android exergame developed in Unity and C# for my bachelor's thesis. It combines a 3D endless runner with daily step counts: physical activity earns time to play.
 
+## Project overview
+
+**Problem:** Explore how everyday physical activity can be connected to progress in a mobile game.
+
+**Approach:** Combine a lane-based Unity runner with a daily step-count integration and convert steps into available playtime. Keep gameplay, menu state and playtime management in separate C# components.
+
+**Result:** A thesis prototype, an original Android build and the accompanying thesis document. This repository demonstrates the implementation; it does not claim a measured increase in physical activity.
+
+
 ## Features
 
 - Lane-based running, jumping and swipe controls.
@@ -32,3 +41,7 @@ An Android exergame developed in Unity and C# for my bachelor's thesis. It combi
 ## Project status
 
 This repository preserves an academic prototype and its original thesis materials. The Android build and external fitness integration have not been revalidated against current devices or services. Third-party models and other assets retain their original licenses.
+
+## Feedback and contributions
+
+For a bug report, open a repository issue with steps to reproduce, expected and actual behavior, and your browser or device details. Discuss substantial changes in an issue before opening a pull request. Keep changes focused and describe how you checked them.

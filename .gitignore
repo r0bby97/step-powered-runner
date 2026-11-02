@@ -1,0 +1,16 @@
+# Unity-generated project data
+com.Company.JumpAndRun/[Ll]ibrary/
+com.Company.JumpAndRun/[Tt]emp/
+com.Company.JumpAndRun/[Oo]bj/
+com.Company.JumpAndRun/[Ll]ogs/
+com.Company.JumpAndRun/[Uu]ser[Ss]ettings/
+com.Company.JumpAndRun/[Bb]uild/
+com.Company.JumpAndRun/[Bb]uilds/
+
+# Generated IDE projects and local settings
+*.csproj
+*.sln
+*.user
+.vs/
+.idea/
+.DS_Store
